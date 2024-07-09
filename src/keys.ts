@@ -1,8 +1,8 @@
 const database = {
-    host: 'qaht103.txemaserrano.com',
-    user: 'qaht103',
+    host: 'qaka328.txemaserrano.com',
+    user: 'qaka328',
     password: 'Jss12aoz',
-    database: 'qaht103'
+    database: 'qaka328'
 }
 
 export default database;
